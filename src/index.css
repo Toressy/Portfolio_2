@@ -1,7 +1,7 @@
 @font-face {
   font-family: "Dream Place";
   src: local("Dream Place"),
-    url("./assets/fonts/Dream\ Place.otf") format("otf");
+    url("./assets/fonts/dream-place.ttf") format("woff");
   font-display: swap;
 }
 @font-face {

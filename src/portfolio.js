@@ -23,7 +23,7 @@ const greeting = {
   username: "Viktoriia Tytarenko",
   title: "Hi, I'm Viktoriia",
   subTitle: emoji(
-     "A passionate Data Analyst and Python Developer 🚀 with expertise in machine learning, database optimization, and behavioral science-driven products. I love transforming data into actionable insights through analysis and visualization."
+     "A passionate Data Analyst and Python Developer 🚀 with expertise in machine learning, database optimisation, and behavioral science-driven products. I love transforming data into actionable insights through analysis and visualisation."
   ),
   resumeLink:
     "https://drive.google.com/file/d/16jRTeuOfzscqqwQEvUbgYv7ojokLG1nY/view?usp=drive_link", // Set to empty to hide the button
@@ -46,7 +46,7 @@ const socialMediaLinks = {
 
 const skillsSection = {
   title: "What I do",
-  subTitle: "DATA SCIENTIST AND FULL-STACK DEVELOPER SPECIALIZING IN ML, NLP, AND DATABASES",
+  subTitle: "DATA SCIENTIST AND FULL-STACK DEVELOPER SPECIALISING IN ML, NLP, AND DATABASES",
   skills: [
     emoji("⚡ Build machine learning pipelines with high accuracy (99.64% on diabetes prediction)"),
     emoji("⚡ Design and optimize relational databases (SQL, NoSQL)"),
@@ -191,7 +191,7 @@ const workExperiences = {
       date: "June 2021 – August 2021",
       desc: "Researched and managed client databases using Google Sheets, presented products to potential clients, and handled administrative tasks.",
       descBullets: [
-        "Improved database organization for more efficient client management",
+        "Improved database organisation for more efficient client management",
         "Developed interpersonal and presentation skills through direct sales"
       ]
     }
@@ -224,8 +224,8 @@ const bigProjects = {
     },
     {
       image: require("./assets/images/text_sum.png"), // Add appropriate image
-      projectName: "Graph-Based Extractive Summarization",
-      projectDesc: "Leveraged S-BERT embeddings and PageRank to optimize summary coherence for my dissertation project.",
+      projectName: "Graph-Based Extractive Summarisation",
+      projectDesc: "Leveraged S-BERT embeddings and PageRank to optimise summary coherence for my dissertation project.",
       footerLink: [
         {
           name: "View Code",
@@ -267,8 +267,8 @@ const achievementSection = {
       footerLink: []
     },
     {
-      title: "Database Optimization",
-      subtitle: "Designed and implemented 3NF normalized database system",
+      title: "Database Optimisation",
+      subtitle: "Designed and implemented 3NF normalised database system",
       image: require("./assets/images/database.png"), // Add appropriate image
       imageAlt: "Database Achievement",
       footerLink: []
