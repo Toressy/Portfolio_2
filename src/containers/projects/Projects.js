@@ -4,6 +4,7 @@ import Button from "../../components/button/Button";
 import {openSource, socialMediaLinks} from "../../portfolio";
 import StyleContext from "../../contexts/StyleContext";
 import Loading from "../../containers/loading/Loading";
+import profile from "../../profile.json"
 export default function Projects() {
   const GithubRepoCard = lazy(() =>
     import("../../components/githubRepoCard/GithubRepoCard")
@@ -15,6 +16,7 @@ export default function Projects() {
   const {isDark} = useContext(StyleContext);
 
   useEffect(() => {
+    /*
     const getRepoData = () => {
       fetch(`${process.env.PUBLIC_URL}/profile.json`)
         .then(result => {
@@ -34,6 +36,9 @@ export default function Projects() {
         });
     };
     getRepoData();
+    */
+   setrepoFunction(profile.data.user.pinnedItems.edges);
+
   }, []);
 
   function setrepoFunction(array) {
