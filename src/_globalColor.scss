@@ -1,83 +1,80 @@
-/* Change colors in this file to style to your needs on a global level. 
-Certain colors are used for different and multiply types of elements. 
-For greater control over colors visit each components .scss file. */
-
 // button colors
-$buttonColor: #55198b;
-$buttonHover: #8c43ce;
-$topButtonHover: #000;
+$buttonColor: #9c27b0; // Purple
+$buttonHover: #ba68c8; // Lighter purple
+$topButtonHover: #7b1fa2; // Darker purple
 
 // text colors light theme
-$titleColor: #000000;
-$textColor: #000000;
-$subTitle: #868e96;
-$cardSubtitle: #666666;
-$talkCardSubTitle: #7f8287;
-$blogCardTitleColor: #262626;
+$titleColor: #4a148c; // Deep purple
+$textColor: #6a1b9a; // Purple
+$subTitle: #9c64a6; // Muted purple
+$cardSubtitle: #7e57c2; // Medium purple
+$talkCardSubTitle: #9575cd; // Light purple
+$blogCardTitleColor: #5e35b1; // Rich purple
 
 // text color dark theme
-$textColorDark: #ffffff;
+$textColorDark: #f3e5f5; // Very light purple
 
 // toggle switch colors
-$toggleCheck: #2196f3;
-$toggleSwitchSliderBG: #ccc;
+$toggleCheck: #ab47bc; // Purple
+$toggleSwitchSliderBG: #ce93d8; // Light purple
 
 // githubRepo specific colors
-$githubRepoCardLanguageColorBG: #0000ff;
-$githubRepoCardColor: rgb(88, 96, 105);
-$githubRepoCardRepoCardStatsColor: rgb(106, 115, 125);
-$githubRepoCardRepoNameColor: rgb(36, 41, 46);
-$githubProfileCardLocationTS: #ffebcd;
-$githubProfileCardBorder: #6c63ff;
+$githubRepoCardLanguageColorBG: #7e57c2; // Purple
+$githubRepoCardColor: #5e35b1; // Dark purple
+$githubRepoCardRepoCardStatsColor: #b39ddb; // Light purple
+$githubRepoCardRepoNameColor: #4a148c; // Deep purple
+$githubProfileCardLocationTS: #e1bee7; // Very light purple
+$githubProfileCardBorder: #9c27b0; // Purple
 
 // light background colors
-$lightBackground1: #fff;
-$lightBackground2: rgb(255, 255, 255);
-$lightBackground3: #f5f2f4;
-$blogCardContainerColor: #586069;
-// dark background colors
-$darkBackground: #171c28;
+$lightBackground1: #faf5ff; // Very light purple tint
+$lightBackground2: #f3e5f5; // Light purple tint
+$lightBackground3: #ede7f6; // Slightly darker purple tint
+$blogCardContainerColor: #b39ddb; // Light purple
+
+// dark background colors (Night theme)
+$darkBackground: #1a122c; // Deep purple-dark
 
 // light theme box shadows
-$lightBoxShadowDark: rgba(0, 0, 0, 0.2);
-$lightBoxShadow: rgba(0, 0, 0, 0.1);
-$lightBoxShadowDarker: rgba(0, 0, 0, 0.3);
+$lightBoxShadowDark: rgba(74, 20, 140, 0.2); // Deep purple shadow
+$lightBoxShadow: rgba(156, 39, 176, 0.1); // Purple shadow
+$lightBoxShadowDarker: rgba(90, 25, 154, 0.3); // Purple shadow
 
 // dark theme box shadows
-$darkBoxShadow: #d9dbdf;
-$darkBoxShadow2: #ffffff;
+$darkBoxShadow: #b39ddb; // Light purple
+$darkBoxShadow2: #d1c4e9; // Very light purple
 
 // linear gradients
 $experienceCardBlurredDivLG: linear-gradient(
-  rgba(0, 0, 0, 0.4),
-  rgba(0, 0, 0, 0.2)
+  rgba(156, 39, 176, 0.4),
+  rgba(123, 31, 162, 0.2)
 );
 $experienceCardBannerLG: linear-gradient(
-  rgba(0, 0, 0, 0.7),
-  rgba(0, 0, 0, 0.5)
+  rgba(74, 20, 140, 0.7),
+  rgba(90, 25, 154, 0.5)
 );
 
 // borders
-$progressBarBackground: rgb(243, 239, 239);
-$lightBorder1: rgba(211, 211, 211, 0.397);
-$educationCardBorder: #a9a7f9;
+$progressBarBackground: #e1bee7; // Very light purple
+$lightBorder1: rgba(206, 147, 216, 0.397); // Light purple
+$educationCardBorder: #ba68c8; // Medium purple
 
 // hovers
-$achievementCertificateCardHoverDark: rgba(255, 255, 255, 0.2);
-$blogCardHoverSmallColor: rgba(255, 255, 255, 0.8);
-$headerHoverBG: #f4f4f4;
-$contactDetailHoverTS: #b5b5b5;
+$achievementCertificateCardHoverDark: rgba(243, 229, 245, 0.2); // Very light purple
+$blogCardHoverSmallColor: rgba(243, 229, 245, 0.8); // Very light purple
+$headerHoverBG: #f3e5f5; // Very light purple
+$contactDetailHoverTS: #ce93d8; // Light purple
 
 // misc backgrounds
-$progressBarSpanBG: #aaa5ff;
-$iconBackground: #333;
-$appHeaderBG: #282c34;
+$progressBarSpanBG: #ba68c8; // Medium purple
+$iconBackground: #7b1fa2; // Dark purple
+$appHeaderBG: #4a148c; // Deep purple
 
 // misc colors
-$skillsColor: #645beb;
-$appLink: #09d3ac;
+$skillsColor: #9c27b0; // Purple
+$appLink: #ba68c8; // Light purple
 
-// social media icons
+// social media icons (kept original for recognizability)
 $faceBook: #3b5998;
 $linkedin: #0e76a8;
 $github: #333;
