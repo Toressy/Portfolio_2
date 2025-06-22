@@ -1,11 +1,11 @@
 {
   "files": {
     "main.css": "/Portfolio_Viktoriia/static/css/main.0832a5f3.css",
-    "main.js": "/Portfolio_Viktoriia/static/js/main.ea9ce143.js",
+    "main.js": "/Portfolio_Viktoriia/static/js/main.4256946a.js",
     "static/css/64.bba8fa55.chunk.css": "/Portfolio_Viktoriia/static/css/64.bba8fa55.chunk.css",
-    "static/js/64.56dc6704.chunk.js": "/Portfolio_Viktoriia/static/js/64.56dc6704.chunk.js",
+    "static/js/64.41912c0a.chunk.js": "/Portfolio_Viktoriia/static/js/64.41912c0a.chunk.js",
     "static/css/769.b3cbb36b.chunk.css": "/Portfolio_Viktoriia/static/css/769.b3cbb36b.chunk.css",
-    "static/js/769.d227fcb1.chunk.js": "/Portfolio_Viktoriia/static/js/769.d227fcb1.chunk.js",
+    "static/js/769.0d23bc0c.chunk.js": "/Portfolio_Viktoriia/static/js/769.0d23bc0c.chunk.js",
     "static/media/diabetes.png": "/Portfolio_Viktoriia/static/media/diabetes.57e2173c6cda181a5848.png",
     "static/media/taras.png": "/Portfolio_Viktoriia/static/media/taras.f28374fdd30579238811.png",
     "static/media/Montserrat-Regular.ttf": "/Portfolio_Viktoriia/static/media/Montserrat-Regular.3cd786652b8a2e9d41f2.ttf",
@@ -21,14 +21,14 @@
     "static/media/resume.pdf": "/Portfolio_Viktoriia/static/media/resume.f0f733dd3cd732b39262.pdf",
     "index.html": "/Portfolio_Viktoriia/index.html",
     "main.0832a5f3.css.map": "/Portfolio_Viktoriia/static/css/main.0832a5f3.css.map",
-    "main.ea9ce143.js.map": "/Portfolio_Viktoriia/static/js/main.ea9ce143.js.map",
+    "main.4256946a.js.map": "/Portfolio_Viktoriia/static/js/main.4256946a.js.map",
     "64.bba8fa55.chunk.css.map": "/Portfolio_Viktoriia/static/css/64.bba8fa55.chunk.css.map",
-    "64.56dc6704.chunk.js.map": "/Portfolio_Viktoriia/static/js/64.56dc6704.chunk.js.map",
+    "64.41912c0a.chunk.js.map": "/Portfolio_Viktoriia/static/js/64.41912c0a.chunk.js.map",
     "769.b3cbb36b.chunk.css.map": "/Portfolio_Viktoriia/static/css/769.b3cbb36b.chunk.css.map",
-    "769.d227fcb1.chunk.js.map": "/Portfolio_Viktoriia/static/js/769.d227fcb1.chunk.js.map"
+    "769.0d23bc0c.chunk.js.map": "/Portfolio_Viktoriia/static/js/769.0d23bc0c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.0832a5f3.css",
-    "static/js/main.ea9ce143.js"
+    "static/js/main.4256946a.js"
   ]
 }
