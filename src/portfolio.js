@@ -194,6 +194,17 @@ const workExperiences = {
         "Improved database organisation for more efficient client management",
         "Developed interpersonal and presentation skills through direct sales"
       ]
+    },
+    {
+      role: "Stockroom Assistant ",
+      company: "British Heart Foundation, Burton on Trent, UK",
+      companylogo: require("./assets/images/britishheartfoundation.jpg"), // Add appropriate logo
+      date: "June 2024 – July 2024",
+      // desc: "Researched and managed client databases using Google Sheets, presented products to potential clients, and handled administrative tasks.",
+      descBullets: [
+        "Assisted in sorting, pricing, and organising donated items to optimise inventory for retail sales",
+        "Provided friendly and efficient service to customers, answered queries, and promoted fundraising initiatives"
+      ]
     }
   ]
 };
